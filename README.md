@@ -1,12 +1,18 @@
 # PengalamanBelajar
-repository ini berisi tentang pengalaman belajarku di Dicoding
 
-Kelas yang saya pelejari yaitu :
-  * Meniti Karier sebagai Software Developer	
-  * Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
-  * Pengenalan ke Logika Pemrograman (Programming Logic 101)	
-  * Pengenalan Data pada Pemrograman (Data 101)	
-  * Belajar Dasar Git dengan GitHub
-  
-  15 juni 2022
-   * Belajar Meniti Karier sebagai Software Developer
+Repository Ini Berisi Pengalaman Belajar di Dicoding
+
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+**15 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+  * Belajar tipe data koleksi, seperti list, set, dan map.
